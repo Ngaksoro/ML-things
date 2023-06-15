@@ -1,5 +1,5 @@
 # Machine Learning - Ngaksoro C23-PS393 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/Ngaksoro/ML-things/blob/main/Ngaksoro.png?raw=true) "Ngaksoro")
+![alt text](https://raw.githubusercontent.com/Ngaksoro/ML-things/main/Ngaksoro.png "Logo Title Text 1")
 
 # Description 
 This repository is especially for the Machine Learning team. Our model is focusing on Convolutional Neural Network (CNN) for image recognition. We apply transfer learning using a pre-trained model called Inception V3 which is provided by TensorFlow. The accuracy is getting 0.9510, and 0.9284 on validation. 

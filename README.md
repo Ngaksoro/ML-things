@@ -1,6 +1,6 @@
 # Machine Learning - Ngaksoro C23-PS393 
 <p align="center">
-  <img width="460" height="300" src=![Ngaksoro](https://github.com/Ngaksoro/ML-things/assets/72770884/b2590d4d-751b-40ec-81dc-8c70011dbb23 alt="Ngaksoro")/>
+  <img width="460" height="300" src=![Ngaksoro](https://github.com/Ngaksoro/ML-things/blob/main/Ngaksoro.png?raw=true alt="Ngaksoro")/>
 </p>
 
 # Description 
